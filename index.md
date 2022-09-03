@@ -1,5 +1,5 @@
 # George O'Carroll's First CS193 Homework
 
-- Humourous TAs
+- Humorous TAs
 - Awesome Quizzes
 - Gripping Terminal Tutorials
